@@ -9,7 +9,7 @@ This project includes:
 ----------
 
 ## Why this exists
-I built this to take the next step from creating a clamp value via excel to understand more python and to practice separating core logic from different user interfaces.
+I run TNF Wood Work, a custom woodworking business, and built my own business website from scratch. While working on responsive design, I kept calculating CSS clamp values manually in Excel — functional but slow. I built this tool to replace that workflow, and used the project as an opportunity to practice separating core logic from different interfaces.
 
 The same calculation logic powers both the CLI and the Streamlit app.
 
